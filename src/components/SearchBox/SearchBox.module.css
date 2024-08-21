@@ -1,0 +1,15 @@
+.wrap {
+  border-radius: 6px;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 200px;
+}
